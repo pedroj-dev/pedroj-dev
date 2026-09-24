@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Olá! Eu sou João Pedro Perez Bashiyo
 
-<!--
-**pedroj-dev/pedroj-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)  
+💻 Desenvolvedor Front-End em formação
 
-Here are some ideas to get you started:
+Atualmente estou iniciando minha carreira na área de tecnologia e buscando evoluir cada vez mais como desenvolvedor.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho conhecimentos em **HTML, CSS, JavaScript e Java**, e utilizo meus projetos para colocar em prática o que venho aprendendo durante meus estudos.
+
+🚀 **Objetivos**
+- Aprimorar minhas habilidades em programação
+- Desenvolver projetos cada vez mais completos
+- Adquirir experiência profissional na área de tecnologia
+- Me especializar em desenvolvimento Front-End
+
+📚 **Atualmente estudando**
+- HTML e CSS
+- JavaScript
+- Java
+- Desenvolvimento Web
+
+💡 Gosto de aprender na prática, criar projetos e acompanhar minha evolução como desenvolvedor.
+
+---
+
+### 📫 Contato
+
+- 💼 LinkedIn: [João Pedro Perez Bashiyo](SEU_LINKEDIN)
+- 🐙 GitHub: [pedroj-dev](SEU_GITHUB)
+- 📧 Email: SEU_EMAIL
