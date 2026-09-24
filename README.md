@@ -25,6 +25,6 @@ Tenho conhecimentos em **HTML, CSS, JavaScript e Java**, e utilizo meus projetos
 
 ### 📫 Contato
 
-- 💼 LinkedIn: [João Pedro Perez Bashiyo](SEU_LINKEDIN)
+- 💼 LinkedIn: [João Pedro Perez Bashiyo](https://www.linkedin.com/in/jo%C3%A3o-pedro-perez-bashiyo-8b2a03312/)
 - 🐙 GitHub: [pedroj-dev](SEU_GITHUB)
-- 📧 Email: SEU_EMAIL
+- 📧 Email: pedroksbashiyo@gmail.com
