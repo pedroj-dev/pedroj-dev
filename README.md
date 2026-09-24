@@ -5,7 +5,7 @@
 
 Atualmente estou iniciando minha carreira na área de tecnologia e buscando evoluir cada vez mais como desenvolvedor.
 
-Tenho conhecimentos em **HTML, CSS, JavaScript e Java**, e utilizo meus projetos para colocar em prática o que venho aprendendo durante meus estudos.
+Tenho conhecimentos em **HTML, CSS, JavaScript e Java**
 
 🚀 **Objetivos**
 - Aprimorar minhas habilidades em programação
